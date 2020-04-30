@@ -1,5 +1,8 @@
-# La_Roulette
-Dictionnaire
+# Dictionnaire
+Ajouter vos mots dans le dictionnaire avec vos equivalent 
+exemple : 
+ - chelou -> bizarre
+ - bizarre -> chelou
 
 ## Getting Started
 
